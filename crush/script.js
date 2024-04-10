@@ -6,8 +6,8 @@
         const questionPrompt = document.querySelector(".question-prompt");
 
         yesBtn.addEventListener("click", () => {
-        question.innerHTML = "Huhu cô hết iu toi r 🥺<br>dỗiiii x10000000";
-        gif.src ="https://media.giphy.com/media/vvc1dJPLEU2QOw9cXy/giphy.gif";
+        question.innerHTML = "Ỏ anh cũng yêu e nhiều lắm ❤ ❤ ❤";
+        gif.src ="https://tiengdong.com/wp-content/uploads/www_tiengdong_com-meme-ban-tim-tha-tim.gif";
 
         yesBtn.style.display = "none";
         noBtn.style.display = "none";
